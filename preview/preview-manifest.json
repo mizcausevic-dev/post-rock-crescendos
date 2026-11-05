@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/post-rock-crescendos-simple-synth-preview.mp3",
+  "preview_sha256": "c92331f765d7748cd87f48c92517bd25152f4f580b9d0dd70252b7c954d7a29f",
+  "source_midi_path": "midi/prc01-far-light/prc01-far-light-combined.mid",
+  "source_midi_sha256": "eddee759660b3f12c6a922ab1649a27c06662a397884c4e554a08cfa9130add9",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "prc01",
+    "start_seconds": 0,
+    "end_seconds": 80.0
+  },
+  "measurement": {
+    "sample_peak": 0.137772,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

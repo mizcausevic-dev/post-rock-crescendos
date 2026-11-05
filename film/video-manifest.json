@@ -1,0 +1,26 @@
+{
+  "title": "Post-Rock Crescendos",
+  "study": "prc01",
+  "bpm": 96,
+  "source_audio": "preview/post-rock-crescendos-simple-synth-preview.mp3",
+  "source_audio_sha256": "c92331f765d7748cd87f48c92517bd25152f4f580b9d0dd70252b7c954d7a29f",
+  "source_midi": "midi/prc01-far-light/prc01-far-light-combined.mid",
+  "source_midi_sha256": "eddee759660b3f12c6a922ab1649a27c06662a397884c4e554a08cfa9130add9",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "61fe902f0d948271673db0e47a5c952c54c3194ae61dc6c54abce91ed576f50b",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "4de895ed931752c4f838e5bb2e6a7bd4cfe4fb741d018449f036ae3b9ce7899d",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "d0ff1d277d84661318a1cb93735a8c29022423173164db6e7b15df12c6566acb",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

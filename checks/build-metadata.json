@@ -1,0 +1,11 @@
+{
+  "generator_version": "release-train-1.0.0",
+  "pack": "post-rock-crescendos",
+  "source_builder_sha256": "7de48954fb3e65e85032ce58bb9379042bffc4b86f3774ad166d127c1b54b699",
+  "commands": [
+    "python tools/build_release.py --pack post-rock-crescendos",
+    "python tools/validate_release.py"
+  ],
+  "run_time_utc": "2026-11-05T14:13:19.478196+00:00",
+  "python": "3.14.0"
+}
