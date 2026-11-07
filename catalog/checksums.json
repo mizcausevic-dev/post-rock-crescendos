@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/post-rock-crescendos-midi.zip",
-      "bytes": 32094,
-      "sha256": "0f1c11a347914c154b7fab7abad1ad4de609bfb866032084cef7951a9ed5bf1a"
+      "bytes": 34174,
+      "sha256": "dd50c8cfdf09223804b2421d35163337f3c9ac3ae0f87933f5505753ef700ffe"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9508,
-      "sha256": "45ddd9ab51329228b67cc11bfb4e22e7c595d38de6e6a6884abe3cfe2a655689"
+      "bytes": 9698,
+      "sha256": "35e70a2ef03fa14d6d7d527d4d0d09733fa3a2b1857b7e791e744ef7771b7420"
     },
     {
       "path": "midi/prc01-far-light/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "27f0cf09dc8f46c9a69a4e542d27dd4db5f46799b082b4fb7fb758061a93251e"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/post-rock-crescendos-simple-synth-preview.mp3",
       "bytes": 1933523,
       "sha256": "c92331f765d7748cd87f48c92517bd25152f4f580b9d0dd70252b7c954d7a29f"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3886,
-      "sha256": "8b2d9ff1bff7daa56c7e983d619a6b3822b09251b4cd96537d0f3fa82844bccb"
+      "bytes": 4001,
+      "sha256": "4cd14d22f327ea3fcfccf6be4d71bacbbc4b73b69589580698cf8c76a7d3b311"
     },
     {
       "path": "social/instagram/caption.txt",
